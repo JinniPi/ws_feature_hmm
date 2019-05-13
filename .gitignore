@@ -3,7 +3,7 @@ viwiki_data/*
 # Ignore result file
 result_data/*
 # Igonre VLSP_Sentence
-vlsp/*
+data/vlsp/*
 # Igonre model_data
 HMM_add_Feature/model/*
 HMM_add_Feature/result/*
